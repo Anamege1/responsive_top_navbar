@@ -1,3 +1,3 @@
 # Topnav-Navigation-Bar
 
-This is a TopNav navigation bar created using HTML, CSS, and JavaScript.
+This is a TopNav navigation bar created using Visual Studio Code, HTML, CSS, and JavaScript.
